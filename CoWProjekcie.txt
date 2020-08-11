@@ -1,0 +1,1 @@
+UnityLearnMY - Field of View dla Wroga, Kamera skierowana w danym kierunku + free camera z możliwością obracania, mgła, zmienione tło, GameManager.Instance (Singleton)
